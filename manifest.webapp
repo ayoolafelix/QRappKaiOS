@@ -1,0 +1,16 @@
+{
+  "name": "Offline QR Generator",
+  "description": "A simple offline QR code generator for KaiOS.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "type": "privileged",
+  "permissions": {
+    "storage": {}
+  },
+  "developer": {
+    "name": "Felix Ayoola",
+    "url": "https:felixayoola.com"
+  }
+}
